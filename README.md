@@ -5,6 +5,10 @@
 
 2. Created a RBF(Radial Basis Function) neural network to estimate the function y = x ^2. Then, comparing the output of the network with the output of the function y = x ^ 2 in the range [-3, 3]. 
 
+## Language
+The codes are written in python.
+
+
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
